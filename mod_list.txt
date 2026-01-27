@@ -6,17 +6,16 @@ BetterThirdPerson-neoforge-1.9.0.jar
 cbmnfieldlab-neoforge-1.1.1.jar
 cloth-config-15.0.140-neoforge.jar
 CobbleFurnies-neoforge-1.0.jar
+cobblemon-battle-extras-neoforge-1.7.21.jar
+cobblemon-secret-base-trainer-neoforge-1.6.14.jar
+Cobblemon-Utility+-neoforge-1.7.1-NORECIPES - Copy.jar
+Cobblemon-neoforge-1.7.1+1.21.1.jar
 cobblemon_party_extras-neoforge-1.2.2.jar
 cobblemon_smartphone-neoforge-1.0.5.jar
 cobblemon_wonder_trade-neoforge-1.0.0.jar
-cobblemon-battle-extras-neoforge-1.5.16.jar
-cobblemon-battle-extras-neoforge-1.7.21.jar
 cobblemonjourneymounts-1.7.1 (1).jar
-Cobblemon-neoforge-1.7.1+1.21.1.jar
 cobblemonpokemonbadges-neoforge-0.1.1.jar
-cobblemon-secret-base-trainer-neoforge-1.6.14.jar
 CobblemonSizeVariationNeoforge-1.4.0+1.7.0.jar
-Cobblemon-Utility+-neoforge-1.7.1-NORECIPES - Copy.jar
 cobblenav-neoforge-2.2.5.jar
 cobblestats-neoforge-1.8+1.21.1.jar
 CobBreeding-neoforge-2.1.1.jar
