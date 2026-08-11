@@ -1,25 +1,24 @@
-# === Cobblemon Addons ===
+# Chloride UI
+mod:chloride_solid_beds
+mod:chloride_solid_chests
+
+# Continuity Textures
+mod:continuity_default
+mod:continuity_glass_pane_culling_fix
+
+# Cobblemon Addons
 mod:gyarados_jump_patterns
 mod:region_bias_forms
 mod:shinies_for_magikarp_jump
 mod:gyarados_jumping_mega
 mod:region_bias_msd
 
-# === Optimization & Fixes ===
-mod:chloride_solid_beds
-mod:chloride_solid_chests
-mod:continuity_default
-mod:continuity_glass_pane_culling_fix
-
-# === UI & Extras ===
+# UI and Extras
+mod:classic_icons
+mod:white_icons
+mod:high_contrast
 mod:inventory_management_dark_ui
-
-# === แก๊งตัวดื้อ (ใช้ ID พิเศษ ห้ามใส่ mod: นำหน้า) ===
-high_contrast
-programmer_art
-obscure_tooltips
-subtle_effects
-punchy
-classic_icons
-white_icons
-black_icons
+mod:vibrant_tooltips
+mod:programmer_art
+mod:punchy_default_animation
+mod:subtle_biome_water_color_particles
