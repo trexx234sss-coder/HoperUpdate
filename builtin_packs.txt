@@ -22,3 +22,11 @@ mod:vibrant_tooltips
 mod:programmer_art
 mod:punchy_default_animation
 mod:subtle_biome_water_color_particles
+
+# แก๊งตัวดื้อ (ใช้ ID จริงจากเกม ห้ามใส่ mod: นำหน้า)
+obscure_tooltips
+subtle_effects
+punchy
+classic_icons
+white_icons
+black_icons
