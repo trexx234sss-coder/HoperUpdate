@@ -1,1 +1,25 @@
+# === Cobblemon Addons ===
+mod:gyarados_jump_patterns
+mod:region_bias_forms
+mod:shinies_for_magikarp_jump
+mod:gyarados_jumping_mega
+mod:region_bias_msd
 
+# === Optimization & Fixes ===
+mod:chloride_solid_beds
+mod:chloride_solid_chests
+mod:continuity_default
+mod:continuity_glass_pane_culling_fix
+
+# === UI & Extras ===
+mod:inventory_management_dark_ui
+
+# === แก๊งตัวดื้อ (ใช้ ID พิเศษ ห้ามใส่ mod: นำหน้า) ===
+high_contrast
+programmer_art
+obscure_tooltips
+subtle_effects
+punchy
+classic_icons
+white_icons
+black_icons
