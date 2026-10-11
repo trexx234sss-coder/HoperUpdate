@@ -6,7 +6,7 @@
   "loader": { "type": "fabric", "version": "0.19.3" },
   "server": { "name": "HoperMon SMP", "address": "143.20.142.11:25565", "autoJoin": true },
   "maintenance": { "enabled": false, "message": "" },
-  "minLauncherVersion": 17,
+  "minLauncherVersion": 18,
   "launcherDownloadUrl": "https://github.com/trexx234sss-coder/HoperUpdate/releases/download/Myphone/HoperMon-SMP.apk",
   "javaArgs": "",
   "archives": [
