@@ -1,0 +1,49 @@
+{
+  "formatVersion": 1,
+  "id": "hopermon_smp",
+  "name": "HoperMon SMP",
+  "minecraft": "1.21.1",
+  "loader": { "type": "fabric", "version": "0.19.3" },
+  "server": { "name": "HoperMon SMP", "address": "143.20.142.11:25565", "autoJoin": true },
+  "maintenance": { "enabled": false, "message": "" },
+  "minLauncherVersion": 0,
+  "launcherDownloadUrl": "",
+  "javaArgs": "",
+  "archives": [
+    {
+      "name": "patch",
+      "versionUrls": [
+        "https://raw.githubusercontent.com/trexx234sss-coder/HoperUpdate/main/1_versionsmp.txt",
+        "https://raw.githubusercontent.com/trexx234sss-coder/HoperUpdate/main/patch_version.txt"
+      ],
+      "url": "https://github.com/trexx234sss-coder/HoperUpdate/releases/download/patch/patch.zip",
+      "target": "",
+      "syncModsDir": "mods",
+      "optionsOverwriteFlagUrl": "https://raw.githubusercontent.com/trexx234sss-coder/HoperUpdate/main/5_options_update.txt"
+    },
+    {
+      "name": "resourcepack",
+      "versionUrls": [
+        "https://raw.githubusercontent.com/trexx234sss-coder/HoperUpdate/main/2_rp_versionsmp.txt"
+      ],
+      "url": "https://github.com/trexx234sss-coder/HoperUpdate/releases/download/rs/HoperMon_RP.zip",
+      "target": "resourcepacks"
+    }
+  ],
+  "excludeFiles": [
+    "mods/iris-*.jar"
+  ],
+  "keepIfExists": [
+    "gameinfo/**",
+    "config/**",
+    "xaero*", "xaero*/**",
+    "xearo*", "xearo*/**",
+    "*.dat",
+    "options.txt", "**/options.txt",
+    "optionsof.txt", "**/optionsof.txt",
+    "command_history.txt", "**/command_history.txt",
+    "servers.dat", "**/servers.dat",
+    "hotbar.nbt", "**/hotbar.nbt"
+  ],
+  "files": []
+}
