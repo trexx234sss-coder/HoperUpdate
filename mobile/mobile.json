@@ -5,7 +5,7 @@
   "minecraft": "1.21.1",
   "loader": { "type": "fabric", "version": "0.19.3" },
   "server": { "name": "HoperMon SMP", "address": "143.20.142.11:25565", "autoJoin": true },
-  "maintenance": { "enabled": false, "message": "" },
+  "maintenance": {"enabled":true,"message":"ปิดปรับปรุงถึง 20:00 น. "},
   "minLauncherVersion": 19,
   "launcherVersionName": "1.0.18",
   "launcherDownloadUrl": "https://github.com/trexx234sss-coder/HoperUpdate/releases/download/Myphone/HoperMon-SMP.apk",
