@@ -6,8 +6,8 @@
   "loader": { "type": "fabric", "version": "0.19.3" },
   "server": { "name": "HoperMon SMP", "address": "143.20.142.11:25565", "autoJoin": true },
   "maintenance": {"enabled":false,"message":"ปิดปรับปรุงถึง 20:00 น. "},
-  "minLauncherVersion": 26,
-  "launcherVersionName": "1.0.25",
+  "minLauncherVersion": 27,
+  "launcherVersionName": "1.0.26",
   "launcherDownloadUrl": "https://github.com/trexx234sss-coder/HoperUpdate/releases/download/Myphone/HoperMon-SMP.apk",
   "javaArgs": "",
   "archives": [
@@ -19,7 +19,7 @@
       ],
       "url": "https://github.com/trexx234sss-coder/HoperUpdate/releases/download/patch/patch.zip",
       "target": "",
-      "syncModsDir": "mods",
+      "skipFiles": ["mods/**"],
       "optionsOverwriteFlagUrl": "https://raw.githubusercontent.com/trexx234sss-coder/HoperUpdate/main/5_options_update.txt"
     },
     {
@@ -29,6 +29,15 @@
       ],
       "url": "https://github.com/trexx234sss-coder/HoperUpdate/releases/download/rs/HoperMon_RP.zip",
       "target": "resourcepacks"
+    },
+    {
+      "name": "mobilemods",
+      "versionUrls": [
+        "https://raw.githubusercontent.com/trexx234sss-coder/HoperUpdate/main/mobile/mods_version.txt"
+      ],
+      "url": "https://github.com/trexx234sss-coder/HoperUpdate/releases/download/Mobilemods/mods-mobile.zip",
+      "target": "mods",
+      "syncModsDir": "mods"
     }
   ],
   "excludeFiles": [
